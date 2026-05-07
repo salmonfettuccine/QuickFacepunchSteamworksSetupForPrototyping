@@ -1,4 +1,4 @@
-# QuickFacepunchSteamworksSetup
+# QuickFacepunchSteamworksSetupForPrototyping
 
 CREDITS GO TO @pixelfizz1718 https://www.youtube.com/@pixelfizz1718 FOR PROVIDING THE TUTORIAL. PART 1 of the Tutorial: https://www.youtube.com/watch?v=kBgnIJUfQak&t=723s PART 2 of the Tutorial: https://www.youtube.com/watch?v=0QPIhCFWkAM&t=819s. Honourable mention: MrRobinOfficial https://www.youtube.com/watch?v=9CYsQ2Rsr2c.
 
