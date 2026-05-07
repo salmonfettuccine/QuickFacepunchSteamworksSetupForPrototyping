@@ -6,6 +6,6 @@ Now, let me be **clear**. This is just to be able to connect with friends/playte
 
 **IMPORTANT:** I have NOT tested the scripts with Netcode for Gameobjects version 2.0-2.11.
 
-**How to Implement:** Make sure you have installed Netcode for Gameobjects 1.15.1. Using the package manager -> Add package from git URL: https://github.com/Unity-Technologies/multiplayer-community-contributions.git#0eda04fc2146a4f907a61de6403315bce705279e This adds the option to use "FacepunchTransport" inside NetworkManager. Once everyone connects, only the host(server) can press X to change the material of the cube on everyones screen through the use or RPCs.
+**How to Implement:** Make sure you have installed Netcode for Gameobjects 1.15.1. Using the package manager -> Add package from git URL: https://github.com/Unity-Technologies/multiplayer-community-contributions.git?path=/Transports/com.community.netcode.transport.facepunch#0eda04fc2146a4f907a61de6403315bce705279e This adds the option to use "FacepunchTransport" inside NetworkManager. Once everyone connects, only the host(server) can press X to change the material of the cube on everyones screen through the use or RPCs.
 
 There is no license, do whatever you want with this.
